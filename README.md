@@ -1,5 +1,5 @@
 # Les Fromages en France
-
+https://github.com/AlexandraRenard/ExercicesDATA/issues/1#issue-785125700
 Aujourd'hui, Mercredi 13 Janvier 2021, nous avons travaillé sur le site  [Opendatasoft](https://www.opendatasoft.com/fr/) qui propose de nombreux jeux de données. Le sujet du jour est : **le Fromage**. 
 Le jeux de données que nous avons utilisé est en fançais, public, a pour producteur OpenDataSoft et date de 2015.
 Les questions que l'on peut se poser suite à l'utilisation de ces jeux de données c'est : comment sont répartis en France la la fabrication des fromages ? Quel lait est le plus utilisé dans  chaque département ?  
