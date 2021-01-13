@@ -1,6 +1,6 @@
 # Les Fromages en France
 
-![alt tag](url de ton image)
+![alt tag](https://user-images.githubusercontent.com/77047183/104461307-7c6ba800-55af-11eb-9b86-10d6233dea95.jpg)
 https://github.com/AlexandraRenard/ExercicesDATA/issues/1#issue-785125700
 Aujourd'hui, Mercredi 13 Janvier 2021, nous avons travaillé sur le site  [Opendatasoft](https://www.opendatasoft.com/fr/) qui propose de nombreux jeux de données. Le sujet du jour est : **le Fromage**. 
 Le jeux de données que nous avons utilisé est en fançais, public, a pour producteur OpenDataSoft et date de 2015.
